@@ -9,5 +9,10 @@ public class bonjour {
 
 	public void ajoutdefonction (){
 		System.out.println("Nouvelle fonction ajoutée");
+		int i = 10;
+		// je boucle
+		while (i>=0){
+			i--;
+		}
 	}
 }
