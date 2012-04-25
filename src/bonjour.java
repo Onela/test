@@ -1,6 +1,5 @@
 
-public class bonjour {
-
+public class bonjour {	
 	/**
 	 * @param args
 	 */
@@ -8,4 +7,7 @@ public class bonjour {
 		System.out.println("Bonjour tout le monde");
 	}
 
+	public void ajoutdefonction (){
+		System.out.println("Nouvelle fonction ajoutée");
+	}
 }
